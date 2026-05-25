@@ -19,4 +19,8 @@ Como acessar o painel admin: Digitar a senha "admin123", se quiser mudar, ultili
 <img width="1221" height="899" alt="Captura de tela 2026-05-25 162856" src="https://github.com/user-attachments/assets/adafde25-700e-4531-a41c-3ee85976eb1f" />
 
 # Ferramentas ultilizadas:
-[![Skills](https://skillicons.dev)](https://skillicons.dev/icons)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+</p>
