@@ -19,13 +19,13 @@ Como acessar o painel admin: Digitar a senha "admin123", se quiser mudar, ultili
 <img width="1221" height="899" alt="Captura de tela 2026-05-25 162856" src="https://github.com/user-attachments/assets/adafde25-700e-4531-a41c-3ee85976eb1f" />
 
 # Ferramentas ultilizadas:
-## 🚀 Tecnologias
+## Código:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-## 🤖 IA
+##  IAs
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
