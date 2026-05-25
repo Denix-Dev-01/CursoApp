@@ -25,7 +25,8 @@ Como acessar o painel admin: Digitar a senha "admin123", se quiser mudar, ultili
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
- 
+</div>
+
 ## IAs
 <div align="center">
 
