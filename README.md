@@ -20,15 +20,16 @@ Como acessar o painel admin: Digitar a senha "admin123", se quiser mudar, ultili
 
 # Ferramentas ultilizadas:
 ## Código:
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+#  Tecnologias & IA
 
-##  IAs
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+<br><br>
 
-  <img src="https://img.shields.io/badge/Blackbox-000000?style=for-the-badge&logo=blackberry&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Blackbox-000000?style=for-the-badge&logo=blackberry&logoColor=white" />
+
+</div>
